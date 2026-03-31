@@ -3,7 +3,9 @@
 
 
 ;; font
-(add-to-list 'default-frame-alist '(font . "JetBrains Mono-16"))
+;;(add-to-list 'default-frame-alist '(font . "JetBrains Mono-16"))
+(add-to-list 'default-frame-alist '(font . "JetBrainsMono Nerd Font-16"))
+
 
 ;; disable scroll bar
 (scroll-bar-mode -1)
